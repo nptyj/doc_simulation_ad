@@ -1,0 +1,7 @@
+site_name: Doc_simulation_ad
+
+nav:
+    - Overview: index.md
+    - Modules: modules.md
+
+theme: readthedocs
