@@ -2,6 +2,7 @@ This is the main repository for the whole documentation of the project doc_simul
 
 ### See the documentation here:
 https://www.mkdocs.org/
+
 https://readthedocs.org/
 
 ### HomePage here:
@@ -28,6 +29,4 @@ The dev-server also supports auto-reloading, and will rebuild your documentation
 
 5. Edit the docs/index.md document and save your changes. Your browser will auto-reload and you should see your updated documentation immediately.
 
-6. Deploying
-
-Read the Docs(https://readthedocs.org/) offers free documentation hosting. You can import your docs using Git. It supports MkDocs out-of-the-box. Follow the instructions on their site to arrange the files in your repository properly, create an account and point it at your publicly hosted repository. If properly configured, your documentation will update each time you push commits to your public repository.
+6. Read the Docs(https://readthedocs.org/) offers free documentation hosting. You can import your docs using Git. It supports MkDocs out-of-the-box. Follow the instructions on their site to arrange the files in your repository properly, create an account and point it at your publicly hosted repository. If properly configured, your documentation will update each time you push commits to your public repository.
